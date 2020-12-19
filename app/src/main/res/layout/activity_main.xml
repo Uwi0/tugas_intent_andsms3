@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:textSize="20sp"
         android:layout_marginTop="10dp"
-        android:hint="nama depan"/>
+        android:hint="@string/nama_depan"/>
 
     <EditText
         android:id="@+id/et_nama_belakang"
