@@ -18,6 +18,7 @@ class IntentDemo : AppCompatActivity() {
 
         tv_nama_depan.text = ("nama depan: $namaDepan")
         tv_nama_belakang.text = ("nama belakang: $namaBelakang")
-        tv_alamat.text = ("alamat: $alamat")
+        tv_alamat.text = ("alamat: $alamatasdfghjkl;'
+        ")
     }
 }
